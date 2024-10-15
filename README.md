@@ -1,2 +1,2 @@
-# Beckhoff-PLC-
+# Beckhoff-PLC
 Bekas own library for Beckhoff PLC
